@@ -1,7 +1,5 @@
 # Urchin Peripheral Animation
 
-![mario](./mario.gif)
-
 ![mario](./maionboard.gif)
 
 ## Usage
